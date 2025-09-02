@@ -1,3 +1,4 @@
+![ex](https://github.com/user-attachments/assets/640bb1ee-6b6c-471e-a30f-c72ab99f5563)
 # NowPlayingOnMenubar
 
 A macOS menu bar application that displays the currently playing song from Apple Music (or iTunes).
@@ -19,15 +20,6 @@ A macOS menu bar application that displays the currently playing song from Apple
 When you download applications from the internet that are not from the Mac App Store or not signed by an identified developer, macOS's built-in security feature, Gatekeeper, will prevent them from opening by default. This is a crucial security measure designed to protect your system from potentially malicious software.
 
 **This application is currently unsigned.** Therefore, when you first attempt to open it after downloading, you will likely encounter a warning message such as "App can't be opened because it is from an unidentified developer."
-
-**Proceed with caution.** Only run applications from sources you trust. If you understand the risks and wish to proceed, you can bypass Gatekeeper using the following steps:
-
-1.  Locate the application icon in Finder.
-2.  **Right-click** (or Control-click) the the application icon.
-3.  Select "Open" from the contextual menu.
-4.  In the dialog that appears, you will now see an "Open" button. Click it to launch the application.
-
-After performing these steps once, you should be able to open the application normally by double-clicking it.
 
 ## Compatibility
 
