@@ -4,9 +4,7 @@
 <dict>
 	<key>CFBundleIdentifier</key>
 	<string></string>
-	<key>NSAppleEventsUsageDescription</key>
-	<string>ミュージックから曲情報とアートワークを取得するために使用します。</string>
 	<key>LSUIElement</key>
-	<string>1</string>
+	<true/>
 </dict>
 </plist>
